@@ -380,14 +380,14 @@ By reducing excessive discounting, improving underperforming product categories,
 
 ⸻
 
-##👤 Author
+## 👤 Author
 
 Timothy Olamide Balogun
 
 AI & Machine Learning | Data Analysis | Python | SQL
 
-## 📧 Email: olapyperfx24@gmail.com
+📧 Email: olapyperfx24@gmail.com
 
-## 🔗 GitHub: Lamicrypto
+🔗 GitHub: Lamicrypto
 
-## 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/timothy-balogun-0a2719
+💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/timothy-balogun-0a2719
