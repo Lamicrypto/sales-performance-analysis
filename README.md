@@ -388,6 +388,6 @@ AI & Machine Learning | Data Analysis | Python | SQL
 
 📧 Email: olapyperfx24@gmail.com
 
-🔗 GitHub: Lamicrypto
+🔗 GitHub: [Lamicrypto](https://github.com/Lamicrypto)
 
-💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/timothy-balogun-0a2719
+💼 LinkedIn: [\[Connect with me on LinkedIn\](https://www.linkedin.com/in/timothy-balogun-0a2719](https://www.linkedin.com/in/timothy-balogun-0a27192a2)
